@@ -19,11 +19,11 @@
 - The ```user```, ```message```, ```chat```, and ```history``` fields are changed when a specific request is given. The fields are updated based on the query of the URI. In the screenshot, the ```parameters``` array contains ```?s=not much``` and ```user=TA```. The ```user``` array contains ```TA```. Lastly, the ```Input``` array contains ```not much```.
 
 
-**Part two:**
- ![Image](private.png)
- ![Image](private.png)
+**Part Two:**
+ ![Image](privatekey.png)
+ ![Image](publickey.png)
  ![Image](login.png)
 
  
-**Part three:**
+**Part Three:**
 I learned in lab from weeks two and three that you could remotely login into a server using ssh. I also learned about localhost and port numbers. 
