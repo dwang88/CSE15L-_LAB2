@@ -11,12 +11,12 @@
  ![Image](chatone.png)
  - The ```handleRequest``` method in the ```Handler``` class and the ```main``` method in the ```ChatServer``` class are called in my code.
 - The relevant arguments to the methods are the ```args``` array in the ```main``` method and the url in the ```handleRequest``` method. 
-- The ```user```, ```message```, ```chat```, and ```history``` fields are changed when a specific request is given. The fields are updated based on the query of the URI. In the screenshot, the ```parameters``` array contains ```?s=not much``` and ```user=TA```. The ```user``` array contains ```TA```. Lastly, the ```Input``` array contains ```not much```.
+- The ```user```, ```message```, ```chat```, and ```history``` fields are changed when a specific request is given. The fields are updated based on the query of the URI. In the screenshot, the ```parameters``` array contains ```?s=whats up``` and ```user=davidwang```. The ```user``` array contains ```davidwang```. Lastly, the ```Input``` array contains ```whats up```.
 
  ![Image](chattwo.png)
 - The ```handleRequest``` method in the ```Handler``` class and the ```main``` method in the ```ChatServer``` class are called in my code.
 - The relevant arguments to the methods are the ```args``` array in the ```main``` method and the url in the ```handleRequest``` method. 
-- The ```user```, ```message```, ```chat```, and ```history``` fields are changed when a specific request is given. The fields are updated based on the query of the URI. In the screenshot, the ```parameters``` array contains ```?s=whats up``` and ```user=davidwang```. The ```user``` array contains ```davidwang```. Lastly, the ```Input``` array contains ```whats up```.
+- The ```user```, ```message```, ```chat```, and ```history``` fields are changed when a specific request is given. The fields are updated based on the query of the URI. In the screenshot, the ```parameters``` array contains ```?s=not much``` and ```user=TA```. The ```user``` array contains ```TA```. Lastly, the ```Input``` array contains ```not much```.
 
 
 **Part two:**
